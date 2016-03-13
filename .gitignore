@@ -1,4 +1,4 @@
 .DS_Store
 sample_app/
-static_pages/tmp
-static_pages/log
+static_pages/tmp/*
+static_pages/log/*
